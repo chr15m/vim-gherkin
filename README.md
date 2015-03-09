@@ -1,5 +1,5 @@
-vim-hy
-======
+vim-gherkin
+===========
 
-A syntax file for [Hy](http://hylang.org).
+A syntax file for [Gherkin](https://github.com/alandipert/gherkin).
 
